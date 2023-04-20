@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Goldi Du"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Faculty of Information Technology at Monash University supervised by Associate Professor Muhammad Aamir Cheema and Dr. Adel Nadjaran Toosi. I have received my Bachelor of Computer Science and Masters of Cybersecurity from Monash University. I am interested in pathfinding applications in game map as well as travel routing for electric  vehicles. 
+I am a Ph.D. student in the Faculty of Information Technology at Monash University supervised by Associate Professor Muhammad Aamir Cheema and Dr. Adel Nadjaran Toosi. I have received my Bachelor of Computer Science and Masters of Cybersecurity from Monash University. I am interested in pathfinding applications in game map as well as travel routing for electric  vehicles. 
 
 
 Education
