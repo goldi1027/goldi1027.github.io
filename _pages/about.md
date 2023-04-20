@@ -13,9 +13,9 @@ I am a PhD student in the Faculty of Information Technology at Monash University
 
 Education
 =====
-Ph.D. (2022 - present) at Monash University
-Masters of Cybersecurity (2020 - 2021) at Monash University
-B.CS. (2015 - 2018) at Monash University
+* Ph.D. (2022 - present) at Monash University
+* Masters of Cybersecurity (2020 - 2021) at Monash University
+* B.CS. (2015 - 2018) at Monash University
 
 Contact
 =====
